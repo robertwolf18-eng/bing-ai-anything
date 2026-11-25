@@ -1,118 +1,88 @@
-# Thanksgiving BingAI 🦃
+# Bing-AI Anything 🎉
 
-**Good food. Great company. Unexpected bingo.**
+**Your words. Your crowd. Your bingo.**
 
-Turn the things your family and friends say around the dinner table into a personalized bingo game. Customize your words, generate differently arranged boards, and print a board for each guest.
+Create personalized listening bingo for dinner, a football watch party, a classroom lesson, or any gathering. Choose 24 words or short phrases, generate differently arranged boards, and print one for each player.
 
 ## Play the game
 
-**[Open Thanksgiving BingAI](https://robertwolf18-eng.github.io/thanksgiving-bingai/)**
+**[Open Bing-AI Anything](https://robertwolf18-eng.github.io/thanksgiving-bingai/)**
 
-No account, subscription, or app installation is needed. The website prepares the boards; guests play on paper during dinner.
+No account, subscription, or app installation is needed. Create the boards online, then play on paper.
 
-## How to make your game
+## Start with Thanksgiving
 
-1. **Choose a title.** Keep “Thanksgiving BingAI,” or name it for your own gathering.
-2. **Customize the 24 entries.** Use words or short phrases your guests are likely to say. Edit the entries individually, or expand **Paste a whole list instead** and enter one item per line.
-3. **Choose the number of boards.** Make one per player, or one per team. The default is 12; you can generate between 1 and 100.
-4. **Add guest names, if you like.** Expand **Add guest names (optional)** and enter one name per line, in board order.
-5. **Select Generate.** The game creates a different arrangement for each board.
-6. **Print your boards.** Choose one or two boards per page, then select **Print / Save as PDF**.
+The ready-to-play example is Thanksgiving dinner bingo. Keep its words or personalize them for your family and friends: turkey, stuffing, gravy, pie, leftovers, football, traffic, a grandchild’s name, a favorite team, or “Remember when.” Replace generic descriptions with the actual names or phrases you expect to hear.
 
-Each board has a **5 × 5 grid**, with **24 entries and a FREE center square**. All boards use the same entries in different positions. Printing does not reshuffle them. If you change your words, title, board count, or guest names, select **Generate** to apply those changes before printing.
+1. **Choose a game title.** Keep the Thanksgiving title or enter your own.
+2. **Customize all 24 entries.** Edit the boxes, or expand **Paste a whole list instead**, enter one word or short phrase per line, and select **Use pasted list**.
+3. **Choose your board count.** Make one per player or team. The default is 12; you can generate 1–100.
+4. **Add guest names, if you like.** Enter one name per line under **Add guest names (optional)**.
+5. **Select Generate.** Each board gets a different arrangement.
+6. **Print.** Choose one or two boards per page, then select **Print / Save as PDF**.
 
-## Make it personal
+Every board has a 5 × 5 grid: the same 24 entries in different positions and a FREE center. Entries must be different, nonempty, and no longer than 60 characters. Short entries print best. Select **Generate** after changing words, the title, board count, or names. Printing preserves the generated arrangements.
 
-Mix familiar Thanksgiving words with details that fit your crowd:
+## Adapt it for anything
 
-| Thanksgiving | Everyday conversation | Your family and friends |
-| --- | --- | --- |
-| Turkey | Traffic | A grandchild’s name |
-| Stuffing | Vacation | A pet’s name |
-| Gravy | Football | A favorite team |
-| Pie | Weather | A hometown or vacation spot |
-| Leftovers | Netflix | A favorite family expression |
-| Delicious | Phone | “Remember when…” |
+**Change the game title, replace all 24 entries, agree on what counts, then Generate and print.** Choose mostly words likely to be heard, with a few funny or distinctive phrases. The examples below are ideas, not complete 24-entry lists.
 
-Replace descriptions such as “A grandchild’s name” with the actual name you want to listen for. The sample game includes “Grandma,” “The dog,” “The Yankees,” and “New York” as examples you can replace.
+### Football: get the non-football fans into the game!
 
-Choose mostly entries likely to come up naturally, with a few funny or distinctive ones. Keep the game friendly and avoid topics that would embarrass a guest.
+Give everyone at the watch party something to cheer about—even the guests who came mostly for the snacks. Mix football vocabulary with familiar remarks from the couch.
 
-Entries must be different and cannot be blank. Keep each entry to 60 characters or fewer; short entries are easiest to read on paper.
+**Try:** beer, injury, fumble, touchdown, penalty, quarterback, interception, timeout, referee, replay, halftime, field goal, commercial, “What a catch!” and “Pass the chips!”
 
-## Beyond Thanksgiving: more ways to play
+Decide whether words count when said by commentators, people in the room, or either. In listening bingo, mark “fumble” when someone says it. If you prefer to mark events you see on screen, agree on that variation before kickoff.
 
-The same generator works wherever people have something to listen for. Change the title and replace the 24 entries to suit the occasion.
+### Teachers: turn a lesson into listening bingo
 
-### 2. Football bingo: get the non-football fans into the game!
+A history teacher introducing the American Revolution can use vocabulary from the lesson, documentary, or review session.
 
-Give everyone at the watch party something to cheer about—even the guests who came mostly for the snacks. Mix football terms with familiar things the announcers or people on the couch are likely to say.
+**Try:** war, revolution, causes, colony, taxation, protest, boycott, Parliament, representation, liberty, independence, king, patriot, Loyalist, constitution, and treaty.
 
-**Sample words and phrases:** beer, injury, fumble, touchdown, penalty, quarterback, interception, timeout, referee, replay, halftime, field goal, commercial, “What a catch!”, and “Pass the chips!”
+Students mark terms as they hear them. Ask a winner to explain a marked term or connect two squares: “How did taxation contribute to protest?” For review, read definitions or clues and have students mark matching terms. A quiet hand signal for BINGO can keep the lesson moving.
 
-Agree whether words count when said by the TV commentators, people in the room, or either. For a listening game, mark “fumble” when someone says it; if you prefer to mark events you see on screen, agree on that variation before kickoff. Watching an ordinary play can suddenly become exciting when someone is one square away from BINGO.
+### More ideas
 
-### 3. Classroom bingo: give students something to listen for
+- **Family reunions:** names, hometowns, family stories, and favorite expressions.
+- **Book clubs:** characters, settings, and recurring themes.
+- **Movie nights:** familiar lines, places, or recurring words.
+- **Study groups:** vocabulary and concepts from the material you are studying.
 
-Teachers can turn a lesson, documentary, or review session into a listening activity. A history teacher introducing the American Revolution, for example, could build boards around key vocabulary, people, and ideas.
+## How to play
 
-**Sample words and phrases:** war, revolution, causes, colony, taxation, protest, boycott, Parliament, representation, liberty, independence, king, patriot, Loyalist, constitution, and treaty.
-
-Students mark words as they hear them during the lesson. To turn a winning board into a learning opportunity, ask the student to explain one marked term or connect two squares: “How did taxation contribute to protest?” For review, read definitions or clues and let students mark the matching terms instead.
-
-Keep the focus on understanding as well as spotting words. A quiet hand signal for BINGO can keep the lesson moving.
-
-*These are starting ideas, not complete 24-entry lists. Add topic-specific words to fill every board, and change the title to match your game.*
-
-## Rules for the table
-
-- Mark a square when someone says its word or phrase aloud for the group to hear.
 - Mark the center **FREE** square at the start.
-- The first player to complete **five squares in a row, column, or diagonal** calls **BINGO!**
+- Mark a square when you hear its word or phrase from the agreed source.
+- Five squares in a row, column, or diagonal wins. Call **BINGO!**
 - Check the winning line together. Ties share the win.
-- Agree before starting whether deliberately prompting someone to say a word is allowed, and whether variations of a word count.
+- Decide beforehand whether variations count and whether deliberately prompting a word is allowed.
 
-**Will someone win?** More boards generally create more opportunities for an early winner, but no number of boards guarantees one: enough listed words must actually be said. If all 24 entries are heard, every board will eventually win. Choosing likely conversation words keeps the game moving.
+**Will someone win?** More boards generally offer more opportunities for an early winner, but no board count guarantees one: enough listed words must be heard. If all 24 entries are heard, every board eventually wins.
 
 ## Printing and saving a PDF
 
-The print button opens your browser’s print dialog. Available printers and PDF options depend on your device and browser.
+Select **Print / Save as PDF** to open your browser’s print dialog. Use US Letter paper in portrait orientation, and choose one board per page for larger text or two to save paper. Start with 100% scale, turn off browser headers and footers if needed, and check the preview. Choose your printer or your device’s PDF saving option. Printer settings can affect the result.
 
-- Use **US Letter (8½ × 11 inches)** paper in **portrait** orientation.
-- Choose **one board per page** for larger text, or **two per page** to save paper.
-- Start with **100% scale** and check the preview before printing the full set.
-- Turn off browser headers and footers if they appear.
-- Use your browser or device’s PDF saving option to keep or send a printable copy.
+## Save or share your game
 
-The print layout hides the editing controls and is designed to keep each board together. Printer settings can affect the result. Physical printer output and iPad printing have not yet been verified.
+Your settings and generated boards stay in the browser you use. They do not automatically transfer to another device, and clearing browser data can remove them.
 
-## Save or share a customized game
+- **Export game** downloads a JSON file with your settings and current boards.
+- **Import game** opens a previously exported file.
+- Share the **website link** so others can design their own game.
+- Share an **exported game file** to transfer your words and arrangements, or a **PDF** for printing.
 
-Your settings and generated boards are saved in the browser you use. They do not automatically transfer to another device or browser, and clearing browser data can remove them.
-
-- **Export game** downloads a JSON file containing your settings and current boards.
-- **Import game** opens a previously exported game file.
-- Share the **website link** so someone can make their own game.
-- Share an **exported game file** to transfer your customization and board arrangements, or share a **PDF** for printing.
-
-Exported files can contain the guest names and words you entered. Share those files only with the people you intend. Export and import still need end-to-end verification.
+Exported games include any player names and custom words you entered.
 
 ## About the project
 
-The game is a self-contained web page built with HTML, CSS, and JavaScript. There is no build step, paid API, or AI service required to play. The app does not send customized entries to a server; it stores them locally in the browser. GitHub Pages serves the website.
+Bing-AI Anything is a self-contained HTML, CSS, and JavaScript page. No build step, paid API, or AI service is required to play. Custom words are stored locally in the browser.
 
-### Repository files
-
-- `index.html` — the complete game, including styling, board generation, customization, and print layouts.
+- `index.html` — the game, customization controls, board generator, and print layouts.
 - `README.md` — this guide.
 
-### Hosting
-
-The live game is published through **GitHub Pages** from the `main` branch and the repository root. In **Settings → Pages**, the source is **Deploy from a branch**, with `main` and `/ (root)` selected. Changes committed to the published branch trigger an updated deployment.
-
-### Verification
-
-The published site was checked to confirm that it loads and generates 12 sample boards. The original model was also checked for unique arrangements, the same 24 entries on every board, FREE centers, and rejection of duplicate entries. These checks do not establish compatibility with every browser or printer.
+GitHub Pages publishes the site from the `main` branch and repository root. The repository and website address retain their original `thanksgiving-bingai` name so existing links keep working.
 
 ---
 
