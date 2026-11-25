@@ -6,7 +6,7 @@ Create personalized listening bingo for dinner, a football watch party, a classr
 
 ## Play the game
 
-**[Open Bing-AI Anything](https://robertwolf18-eng.github.io/thanksgiving-bingai/)**
+**[Open Bing-AI Anything](https://robertwolf18-eng.github.io/bing-ai-anything/)**
 
 No account, subscription, or app installation is needed. Create the boards online, then play on paper.
 
@@ -82,7 +82,7 @@ Bing-AI Anything is a self-contained HTML, CSS, and JavaScript page. No build st
 - `index.html` — the game, customization controls, board generator, and print layouts.
 - `README.md` — this guide.
 
-GitHub Pages publishes the site from the `main` branch and repository root. The repository and website address retain their original `thanksgiving-bingai` name so existing links keep working.
+GitHub Pages publishes the site from the `main` branch and repository root. The repository is named `bing-ai-anything`. Share the game using https://robertwolf18-eng.github.io/bing-ai-anything/.
 
 ---
 
