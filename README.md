@@ -62,7 +62,7 @@ Students mark terms as they hear them. Ask a winner to explain a marked term or 
 
 ## Printing and saving a PDF
 
-Select **Print / Save as PDF** to open your browser’s print dialog. Use US Letter paper in portrait orientation, and choose one board per page for larger text or two to save paper. Start with 100% scale, turn off browser headers and footers if needed, and check the preview. Choose your printer or your device’s PDF saving option. Printer settings can affect the result.
+Select **Print / Save as PDF** to open your browser’s print dialog. Use US Letter paper. **Two per page** prints two square grids side by side in **landscape**; **one per page** prints a larger square grid in **portrait**. The page requests the matching orientation automatically; if your print dialog overrides it, select Landscape for two boards or Portrait for one. Start with 100% scale, turn off browser headers and footers, and check the preview. Choose your printer or your device’s PDF saving option. Printer settings can affect the result.
 
 ## Save or share your game
 
