@@ -10,6 +10,12 @@ Create personalized listening bingo for dinner, a football watch party, a classr
 
 No account, subscription, or app installation is needed. Create the boards online, then play on paper.
 
+## Talmud edition
+
+**[Open Bing-AI Anything — Talmud Edition](https://robertwolf18-eng.github.io/bing-ai-anything/talmud.html)**
+
+This separate version starts with 24 Talmud and scholarly terms, including Hevruta, Tanna, Amora, Pshat, Machloket, Kal va-chomer, Redaction, Narrativity, and Legal imagination. It describes Thanksgiving and football as other ways to play and remains fully customizable for any topic. Its saved settings are separate from the general game. Both versions support two square grids per landscape page or one larger square grid per portrait page.
+
 ## Start with Thanksgiving
 
 The ready-to-play example is Thanksgiving dinner bingo. Keep its words or personalize them for your family and friends: turkey, stuffing, gravy, pie, leftovers, football, traffic, a grandchild’s name, a favorite team, or “Remember when.” Replace generic descriptions with the actual names or phrases you expect to hear.
@@ -80,6 +86,7 @@ Exported games include any player names and custom words you entered.
 Bing-AI Anything is a self-contained HTML, CSS, and JavaScript page. No build step, paid API, or AI service is required to play. Custom words are stored locally in the browser.
 
 - `index.html` — the game, customization controls, board generator, and print layouts.
+- `talmud.html` — the Talmud-first edition, with the same customization and printing features.
 - `README.md` — this guide.
 
 GitHub Pages publishes the site from the `main` branch and repository root. The repository is named `bing-ai-anything`. Share the game using https://robertwolf18-eng.github.io/bing-ai-anything/.
